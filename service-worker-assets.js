@@ -1505,8 +1505,8 @@
       "url": "_framework\/AntDesign.j3f4sqlozd.wasm.br"
     },
     {
-      "hash": "sha256-ClrXMQmggRw3UvNC6vD7yTPJGNsC+b961ABhS2cQZws=",
-      "url": "_framework\/FwManager.Client.mjrx2aia8q.wasm.br"
+      "hash": "sha256-KDUsqRXZvQWEMTGPsRz0ZESt1PfMQs12wbzRaf3M3qM=",
+      "url": "_framework\/FwManager.Client.hctiycxo5i.wasm.br"
     },
     {
       "hash": "sha256-o99iokSizs73gH+eOTzDr78rFWWv7WJTf7sLCAVdnXY=",
@@ -1717,7 +1717,7 @@
       "url": "_framework\/System.ezrw3d5kw2.wasm.br"
     },
     {
-      "hash": "sha256-q7Diybl0+1mJ+uy0o0n2bVfi81nU8wAxA0Rm7pxfgbI=",
+      "hash": "sha256-v9cITLOqT+cfMCmoSY5ukFgUiyev9uZ6ODdl\/fGS3y8=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -1965,5 +1965,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "4oJasEYZ"
+  "version": "Rg4X8h3o"
 };
